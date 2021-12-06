@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{795A603D-4824-ACBC-3EC3-5BAF3880235F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PatchingDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
